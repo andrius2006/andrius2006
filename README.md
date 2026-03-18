@@ -13,7 +13,7 @@
 		</a>
 	-->
 	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
+		<img src="" alt="" target="_blank" height=25px, width=250px/> 
 	</a>
 
 </p>
