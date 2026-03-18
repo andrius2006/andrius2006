@@ -140,11 +140,6 @@
 	
 [![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=7oSkaaa&theme=github	)](https://github.com/7oSkaaa/github-readme-activity-graph)
 
- 
-	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-
-----
 </details>
 
 </br></br>
